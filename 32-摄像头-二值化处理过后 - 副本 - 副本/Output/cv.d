@@ -1,0 +1,41 @@
+..\..\output\cv.o: ..\..\User\CV\cv.c
+..\..\output\cv.o: ..\..\User\./CV/cv.h
+..\..\output\cv.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\cv.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\cv.o: D:\Program Files (x86)\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\cv.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\cv.o: ..\..\User\stm32f10x_conf.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\cv.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_bkp.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_can.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_cec.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_crc.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_dac.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_dbgmcu.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_pwr.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_rtc.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_sdio.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\stm32f10x_wwdg.h
+..\..\output\cv.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\cv.o: ..\..\User\./ov7725/bsp_ov7725.h
+..\..\output\cv.o: ..\..\User\./CV/cv.h
+..\..\output\cv.o: ..\..\User\./lcd/bsp_ili9341_lcd.h
+..\..\output\cv.o: ..\..\User\./font/fonts.h
+..\..\output\cv.o: ..\..\User\./font/fonts.h
+..\..\output\cv.o: ..\..\User\./led/bsp_led.h
+..\..\output\cv.o: ..\..\User\./usart/bsp_usart.h
+..\..\output\cv.o: D:\Program Files (x86)\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\cv.o: ..\..\User\./key/bsp_key.h
+..\..\output\cv.o: D:\Program Files (x86)\ARM\ARMCC\Bin\..\include\math.h
