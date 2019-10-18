@@ -16,11 +16,11 @@
 
 //PWM信号的频率 F = TIM_CLK/{(ARR+1)*(PSC+1)}
 //实际时自动重装载寄存器ARR的值
-#define          ADVANCE_TIM_PERIOD               (50-1)      //周期 
+#define          ADVANCE_TIM_PERIOD               (500-1)      //周期 
 // 预分频器的值，可实现1至65536分频，设定PSC寄存器的值
 #define          ADVANCE_TIM_PSC            			(7200-1)      //决定了计数器计一次的时间
 //比较输出脉冲宽度，实际比较CCR的值
-#define          ADVANCE_TIM_PULSE          			6        //更改此项可更改占空比
+#define          ADVANCE_TIM_PULSE          			 350      //更改此项可更改占空比
 
 
 #define          ADVANCE_TIM_IRQ        					TIM1_UP_IRQn
